@@ -1,1 +1,22 @@
-{}
+{
+    "QDEB-F81C-LB8Z-NLYQ": {
+        "ativa": true,
+        "expira_em": "2026-12-17T14:52:02.276078",
+        "dono": "teste"
+    },
+    "GJCW-KC7V-WHPD-EHEY": {
+        "ativa": true,
+        "expira_em": "2026-12-17T15:07:49.035854",
+        "dono": "teste"
+    },
+    "TUEE-NH67-TR6F-70EF": {
+        "ativa": true,
+        "expira_em": "2026-12-17T15:08:52.175226",
+        "dono": "teste"
+    },
+    "0KWZ-5RY0-LAHE-BEFI": {
+        "ativa": true,
+        "expira_em": "2026-12-17T15:11:46.914317",
+        "dono": "teste"
+    }
+}
