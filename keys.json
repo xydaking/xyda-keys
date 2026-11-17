@@ -18,5 +18,10 @@
         "ativa": false,
         "expira_em": "2026-12-17T15:11:46.914317",
         "dono": "teste"
+    },
+    "WP0V-IULO-EYWP-TPYR": {
+        "ativa": true,
+        "expira_em": "2054-04-03T16:18:05.243923",
+        "dono": "teste"
     }
 }
